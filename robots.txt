@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://bengaluruluxuryapartments.co.in/sitemap.xml
+Sitemap: https://godrejnewlaunchbannerghatta.in/sitemap.xml
+

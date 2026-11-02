@@ -2,10 +2,10 @@
    PROJECT CONFIGURATION (Browser JavaScript)
 =============================================================== */
 
-window.PROJECT_ID = "3528422";
+window.PROJECT_ID = "3528362";
 window.PROJECT_NAME = "Godrej Vanantara";
 window.DEVELOPER_NAME = "Godrej Properties";
-window.RERA_NO = "PRM/KA/RERA/1251/308/PR/171025/008179";
+window.RERA_NO = "PRM/KA/RERA/1251/310/PR/130526/008653";
 window.WHATSAPP_NO = "919560582493";
 window.CALL_NO = "919718344024";
 window.CALL_DISPLAY = "+91 9718344024";
@@ -21,7 +21,7 @@ window.SECRET_KEY = "6c7f9ad8b2a1e0f4d5a8c0b9f6e2a4d190";
 window.SHEET_WEBHOOK = "https://script.google.com/macros/s/AKfycbw2MGrCI0lVGZZD049RrqM52ubNIHHZLzuk7mIg9KMVacJREV9sw05jnPMvT5OeNtWt/exec";
 window.PROPTIGER_URL = "https://www.proptiger.com/data/v1/entity/enquiry";
 window.GTM_ID = "GTM-575H8R87";
-window.BASE_URL = "https://bengaluruluxuryapartments.co.in";
+window.BASE_URL = "https://godrejnewlaunchbannerghatta.in";
 
 // Auto-bind configuration variables to UI elements
 window.applyProjectConfig = function () {
